@@ -1,3 +1,0 @@
-url:https://javin.in/orangeskin/backend/login
-orange id: adminorange@javin.in
-password: admin@orangejavinglobal
