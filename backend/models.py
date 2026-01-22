@@ -7,4 +7,4 @@ class STUDENT(BaseModel):
     last_name:str
     gender:str
     course:str
-    marks:int
+    marks:int    

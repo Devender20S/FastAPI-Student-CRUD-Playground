@@ -1,8 +1,8 @@
 from fastapi import Depends, FastAPI, HTTPException
 from sqlalchemy.orm import Session
-from models import STUDENT
-from database import SessionLocal, engine
-import database_models
+from backend.models import STUDENT
+from backend.database import SessionLocal, engine
+from backend import database_models 
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
